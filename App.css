@@ -1,3 +1,4 @@
+root
 [data-theme='dark'] {
   --background-color: #222;
   --btn-color: #fff;
@@ -7,3 +8,4 @@
   --form-text-color: #fff;
   --footer-text-color: #bbb;
 }
+
