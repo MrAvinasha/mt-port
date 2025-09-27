@@ -9,7 +9,7 @@ root
   --footer-text-color: #bbb;
 }
 [data-theme='dark'] {
-  --background-color: ;
+  --background-color: #222;
   --btn-color: #fff;
   --btn-text-color: #222;
   --project-card-bg: #fff;
