@@ -9,7 +9,7 @@ root
   --footer-text-color: #bbb;
 }
 [data-theme='dark'] {
-  --background-color: #222;
+  --background-color: ;
   --btn-color: #fff;
   --btn-text-color: #222;
   --project-card-bg: #fff;
@@ -17,6 +17,7 @@ root
   --form-text-color: #fff;
   --footer-text-color: #bbb;
 }
+
 
 
 
